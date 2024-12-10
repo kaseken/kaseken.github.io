@@ -4,7 +4,7 @@ A Software Engineer, Indie hacker.
 
 ## Apps
 
-- DripNote
+- [DripNote](https://apps.apple.com/app/6739217151)
 
 ## Links
 
